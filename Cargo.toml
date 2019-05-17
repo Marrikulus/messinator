@@ -1,0 +1,10 @@
+[package]
+name = "messinator"
+version = "0.1.0"
+authors = ["Ingimar Svanberg Jóhannesson <ingimar.johannesson@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+tui = "0.5"
+termion = "1.5"
+failure = "0.1"
